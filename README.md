@@ -1,2 +1,3 @@
-# processing-trigonometry
-Ejercicios y ejemplos de trigonometria en Processing
+# Capítulo 4. Geometría - Trigonometria 
+
+Ejemplos y ejercicios de trigonometria.
